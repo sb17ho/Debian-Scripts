@@ -1,3 +1,4 @@
+#!/bin/bash
 while true; do
   read -p "What to use for update:
   1) apt
